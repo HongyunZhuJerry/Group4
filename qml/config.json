@@ -1,0 +1,8 @@
+{
+    "title": "CatVsDog",
+    "identifier": "com.yourcompany.wizardEVP.CatVsDog",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
